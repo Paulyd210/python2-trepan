@@ -1,4 +1,4 @@
-*This is package has been renamed to trepan2_ .__*
+*This is package has been renamed.* Find me at trepan2_ .
 
 See you on the other side.
 
